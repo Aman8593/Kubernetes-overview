@@ -124,3 +124,5 @@ Here’s a quick comparison of Kubernetes components with a computer system:
 | Namespace             | Folder/Directory                 | Groups components for better organization.      |
 
 Kubernetes makes deploying, managing, and scaling applications easy and efficient by keeping all components interconnected yet modular.
+![image](https://github.com/user-attachments/assets/563cc39e-3964-45bf-abe5-6c66da5118aa)
+![image](https://github.com/user-attachments/assets/96c9c961-60f2-49ab-bd57-afb29145feac)
